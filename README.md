@@ -56,6 +56,9 @@ Tool ini dibuat untuk membantu:
 - Dependencies:
 ```bash
 pip install requests beautifulsoup4 rich
+git clone https://github.com/opettt-hash/JAVASCRIPT_BEHAVIORAL.git
+cd JAVASCRIPT_BEHAVIORAL
+python JS_SIGNAL.py
 ```
 ---
 
