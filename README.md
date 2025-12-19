@@ -8,7 +8,7 @@
 
 ## Overview
 
-**Simple Js Signal Scanner** adalah tool Python untuk melakukan **analisis pasif terhadap file JavaScript publik** dengan fokus pada **behavioral signals, telemetry, dan internal markers** yang umum digunakan oleh Google.
+**Simple Js Signal Scanner** adalah tool Python untuk melakukan **analisis pasif terhadap file JavaScript publik** dengan fokus pada **behavioral signals, telemetry, dan internal markers** yang umum digunakan oleh Google Dll
 
 Tool ini **TIDAK**
 - melakukan exploit
