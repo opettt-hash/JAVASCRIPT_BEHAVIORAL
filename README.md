@@ -16,7 +16,7 @@ Tool ini **TIDAK**
 - mengirim payload
 - melakukan brute force
 
-Semua analisis dilakukan secara **read-only (passive inspection)** terhadap JavaScript publik.
+Semua analisis dilakukan secara **read-only (passive inspection)** terhadap JavaScript tertentu 
 
 ---
 
