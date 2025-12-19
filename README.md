@@ -2,6 +2,8 @@
 
 **Passive JavaScript Behavioral & Telemetry Signal Analyzer**
 
+<img src="hackers.jpg" alt="IP Result" width="50%">
+
 ---
 
 ## Overview
